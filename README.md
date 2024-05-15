@@ -31,5 +31,5 @@ If you would like to build on top of this example, here are some ideas you may c
 1) Adding more parameters
 2) Utilizing a different baseline stl model
 3) Adding a parent contract that randomizes the UInt64 creation
-4) Adding a parent contract that breeds to UInt64s to create a new UInt representation (something like (dna_1 & rand_int) | (dna_2 & ~rand_int) should do it)
+4) Adding a parent contract that breeds two UInt64s to create a new UInt representation (something like (dna_1 & rand_int) | (dna_2 & ~rand_int) should do it)
 5) Buildin a workflow which reads the stl for usage in a gaming/rendering engine
