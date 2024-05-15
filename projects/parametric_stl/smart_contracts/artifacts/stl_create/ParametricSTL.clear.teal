@@ -1,0 +1,7 @@
+#pragma version 10
+
+smart_contracts.stl_create.contract.ParametricSTL.clear_state_program:
+    // smart_contracts/stl_create/contract.py:22
+    // class ParametricSTL(ARC4Contract):
+    int 1
+    return
